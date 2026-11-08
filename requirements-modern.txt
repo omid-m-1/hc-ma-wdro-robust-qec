@@ -1,0 +1,15 @@
+# Modern reproduction profile; PanQEC metadata constraints differ. Install PanQEC with --no-deps.
+numpy==1.26.4
+scipy==1.17.1
+pymatching==2.4.0
+ldpc==2.4.1
+sympy==1.13.1
+networkx
+matplotlib
+pandas
+tqdm
+python-dotenv
+psutil
+click
+Flask
+# Install panqec==0.1.6 separately with --no-deps (README).

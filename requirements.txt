@@ -1,0 +1,15 @@
+# Legacy server profile. Use a separate environment; install PyTorch separately.
+numpy==1.26.4
+scipy==1.11.1
+pymatching==2.0.1
+ldpc==0.1.51
+sympy==1.13.1
+networkx
+matplotlib
+pandas
+tqdm
+python-dotenv
+psutil
+click
+Flask
+# Install panqec==0.1.6 separately with --no-deps (README).
